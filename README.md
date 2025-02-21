@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! 👋
 
 💀 Passionate about crafting with the Killer Triad: Tcl, Go, and SQLite3.
 
