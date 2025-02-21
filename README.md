@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+💀 Passionate about crafting with the Killer Triad: Tcl, Go, and SQLite3.
+❤️ OpenBSD
+
 <!--
 **ufko-org/ufko-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
